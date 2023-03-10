@@ -1,0 +1,149 @@
+#block1
+{
+    background:linear-gradient(#4332f0,#6a5dfa);
+    width: 280px;
+    height:380px;
+    border-radius: 20px;
+    margin:120px 300px;
+}
+#up
+{
+    margin-left:67px;
+    padding-top:20px;
+    font-size: x-large;
+    font-family:DejaVu Sans Mono, monospace;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0.80);
+}
+#circle
+{
+    
+    background:linear-gradient(#452ddd,#634eed);
+    width:130px;
+    height:130px;
+    margin-top:30px;
+    border-radius: 65px;
+    margin-left: 75px;
+    -webkit-text-fill-color:#fefffb;
+}
+#new
+{
+    font-family:DejaVu Sans Mono, monospace;
+    margin-left:45px;
+    padding-top: 2px;
+}
+#suar
+{
+    margin-left:0px;
+    margin-top:-15px;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    -webkit-text-fill-color:rgba(255, 255, 255, 0.80);
+}
+.pali h1
+{
+    margin-left:24px;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    -webkit-text-fill-color:rgba(255, 255, 255, 0.80); 
+    margin-top: 29px;
+}
+#ghar
+{
+    width: 250px;
+    font-size: 13px;
+    text-align: center;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    -webkit-text-fill-color:rgba(255, 255, 255, 0.80);
+    margin-left:-57px;
+}
+#new h1
+{
+    font-size: 40px;
+}
+#block2
+{
+    background-color:white;
+    width: 280px;
+    height:380px;
+    border-radius: 20px;
+    margin:-500px 580px;
+    box-shadow: 0px 10px 20px rgb(197, 195, 195);   
+}
+#u
+{
+    margin-left:40px;
+    padding-top:20px;
+    font-family:Trebuchet MS, sans-serif;
+    font-size: large;
+}
+.box
+{
+    width:190px;
+    height:40px;
+    margin-top:20px;
+    margin-left:40px;
+    background-color: black;
+    border-radius: 8px;
+}
+#box1
+{
+    background-color: rgba(255,30,30,0.09);
+}
+#box2
+{
+    background-color: rgb(240, 240, 187);
+}
+#box3
+{
+    background-color: rgb(202, 241, 202);
+}
+#box4
+{
+    background-color: rgba(30,30,255,0.09);
+}
+.b1
+{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.b11
+{
+    margin-top:-40px;
+    margin-left:120px;
+    font-family:Trebuchet MS, sans-serif; 
+}
+.conti
+{
+    width:200px;
+    height:40px;
+    margin-top:30px;
+    margin-left:40px;
+    background-color: rgb(50,60,90);
+    border-radius: 20px;
+}
+#text
+{
+    font-family:Trebuchet MS, sans-serif; 
+    -webkit-text-fill-color: white;
+    text-align: center;
+    font-size:20px;
+}
+#text p{
+    padding-top:6px;
+}
+.conti:hover
+{
+    background-color:#4332f0;
+}
+
+@media screen and (max-width:600px)
+{
+    #bc1
+    {
+        margin-left:-73%;
+        margin-top:-110px;
+    }
+    #bc2
+    {
+        margin-left:-150%;
+        margin-top:500px;
+    }
+}
